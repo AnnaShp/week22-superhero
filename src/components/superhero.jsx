@@ -1,4 +1,4 @@
-import './superhero.css'
+import './Superhero.css'
 
 function SuperHero(props) {
     // const { name, universe, alterego, occupation, friends, superpowers, url, info } = this.props;
